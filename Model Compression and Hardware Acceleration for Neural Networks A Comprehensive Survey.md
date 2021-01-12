@@ -19,7 +19,7 @@
 ### A. 压缩方法分类法
 
 图3展示了我们对神经网络压缩中的不同方法进行了分类的分类法。
-![Fig_3](Model Compression and Hardware Acceleration for Neural Networks A Comprehensive Survey.assets\Fig_3.png)
+![Fig_3](Model Compression and Hardware Acceleration for Neural Networks A Comprehensive Survey_assets\Fig_3.png)
 注意，这里为了清晰起见，该图中未包括采用多种方法进行的联合压缩。
 
 ## 4. 神经网络压缩：硬件
